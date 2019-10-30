@@ -1,31 +1,33 @@
 h1  {
   color: #003f5c;
-  font-family: 'Walter Turncoat', cursive;
+  font-family: 'Libre Baskerville', serif;
   font-size: 35px;
 }
 
 h2 {
   color: #003f5c;
-  font-family: 'Walter Turncoat', cursive;
-  font-size: 20px;
+  font-family: 'Pacifico', cursive;;
+  font-size: 25px;
 }
 
 h3 {
   color: #003f5c;
-  font-family: 'Walter Turncoat', cursive;
+  font-family: 'Pacifico', cursive;
   font-size: 10px;
 }
 
+a {
+text-decoration: none;
+}
+
 a:hover {
-  background-color: #AFBFC0;
-  color: white;
-  font-weight: bold
+ color: black;
 }
 
 body {
   color: #484c7f;
   font-weight: bold
-  font-family: 'Walter Turncoat', cursive;
+  font-family: 'Pacifico', cursive;;
   font-size: 20px;
   font-weight: lighter;
 }
