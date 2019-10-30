@@ -1,0 +1,86 @@
+h1  {
+  color: #003f5c;
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 35px;
+}
+
+h2 {
+  color: #003f5c;
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 20px;
+}
+
+h3 {
+  color: #003f5c;
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 10px;
+}
+
+a:hover {
+  background-color: #AFBFC0;
+  color: white;
+  font-weight: bold
+}
+
+body {
+  color: #484c7f;
+  font-weight: bold
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.btn-blue {
+  background-color: #2f416d;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+
+.btn-blue:hover {
+  background-color: #3e64ff;
+  color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.card-white {
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.margin-top {
+    margin-top: 40px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.list-inline i:hover {
+  color:  #3e64ff;
+}
